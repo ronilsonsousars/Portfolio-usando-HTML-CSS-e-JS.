@@ -22,7 +22,6 @@ style-guide.md
 ```
 
 <hr/>
-<br>
 
 ## 🚀 Tecnologias
 
@@ -35,7 +34,6 @@ Esse projeto foi desenvolvido com as seguintes técnicas:
 - SVG Sprite\*
 
 <hr/>
-<br>
 
 Para os SVGs criei um sprite. Sprite nada mais é que um único documento grande com todos os SVGs.
 Optei pelo o sprite para dimnuir a quantidade código XML no HTML.
@@ -52,7 +50,6 @@ Tenho contonado isso repassando novamente o caminho do arquivo.
 ```
 
 <hr/>
-<br>
 
 ## Código javascript foi refatorado pelo chatGPT
 
@@ -61,7 +58,6 @@ Tenho contonado isso repassando novamente o caminho do arquivo.
 - Usar _querySelectorAll_ e um _for_ loop para simplificar o processo de adicionar eventos a múltiplos elementos.
 
 <hr/>
-<br>
 
 ## Funcionalidades
 
@@ -73,7 +69,6 @@ Tenho contonado isso repassando novamente o caminho do arquivo.
   - Se o usuário clicar em qualquer área do site (excerto o próprio menu), o menu será fechado.
 
 <hr/>
-<br>
 
 ## Recursos úteis
 
@@ -83,14 +78,12 @@ Tenho contonado isso repassando novamente o caminho do arquivo.
 - [Dopely color](https://colors.dopely.top/color-pedia) - Otimo site para para obter informações sobre cores, como tint & shades, harmonia de cores, verificação de contraste e muito mais!
 - [Logoipsum](https://logoipsum.com/) - logotipo de espaço reservado gratuito que você pode usar em seu design.
 <hr/>
-<br>
 
 ## 🔖 Layout
 
 Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/community/file/1242927375221681165). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 <hr/>
-<br>
 
 ## 👥 Contribuição
 
@@ -99,7 +92,6 @@ Sinta-se à vontade para contribuir com este projeto. Você pode abrir _issues_ 
 Ainda há muito em que eu gostaria de melhorar nesse layout, sendo assim continuarei a trabalhar nele conforme o passar do tempo.
 
 <hr/>
-<br>
 
 ## 📑 Licença
 
